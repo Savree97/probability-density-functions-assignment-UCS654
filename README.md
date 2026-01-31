@@ -1,6 +1,5 @@
-# Probability-density-functions-assignment-UCS654
-Assignment on learning probability density function parameters
-# Probability Density Functions Assignment
+
+# Probability Density Functions Assignment-UCS654
 
 This repository contains the solution for Assignment-1, which focuses on
 learning the parameters of a probability density function using a
